@@ -10,7 +10,7 @@ Make your touchbar more powerful.
 * zsh
 * ruby 2.3.4 or later (only if you want automatic generation)
 
-**In iterm2:** Go to `View -> Customize Tool Bar...` and drag & drop the `Fn` module
+**In iterm2:** Go to `View -> Customize Touch Bar...` and drag & drop the `Fn` module
 
 ## Installation
 
